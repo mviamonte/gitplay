@@ -1,2 +1,4 @@
 This is a new file to play with git
 this new line is going to be deleted
+Benito it's a playful and lazy cat
+Bilbo it's serious and adorable
