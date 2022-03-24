@@ -1,0 +1,2 @@
+This is a new file to play with git
+this new line is going to be deleted
